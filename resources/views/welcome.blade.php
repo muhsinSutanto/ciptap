@@ -298,13 +298,13 @@
                                 <img width="100%" src="images/ipb.png" alt="ipb">
                             </div>
                             <div class="col-md-1" style="width: 120px; margin: 30px" >   
-                                <img width="100%" src="images/kehati.png" alt="kehati">
+                                <img width="100%" src="images/kehat.png" alt="kehati">
                             </div>
                             <div class="col-md-1" style="width: 120px; margin: 30px" >   
-                                <img width="100%" src="images/kemenkumham.png" alt="kemenkumham">
+                                <img width="100%" src="images/kemenham.png" alt="kemenkumham">
                             </div>
                             <div class="col-md-1" style="width: 120px; margin: 30px" >   
-                                <img width="100%" src="images/kementan.png" alt="kehati">
+                                <img width="100%" src="images/kemtan.png" alt="kehati">
                             </div>
                             <div class="col-md-1" style="width: 120px; margin: 30px" >   
                                 <img width="100%" src="images/kbogor.png" alt="kemenkumham">
@@ -316,7 +316,7 @@
                                 <img width="100%" src="images/polbang.png" alt="kehati">
                             </div>
                             <div class="col-md-1" style="width: 120px; margin: 30px" >   
-                                <img width="100%" src="images/pepi.png" alt="kemenkumham">
+                                <img width="100%" src="images/pep.png" alt="kemenkumham">
                             </div>
                             
 					</div>
