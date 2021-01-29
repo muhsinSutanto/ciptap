@@ -107,7 +107,7 @@
 			<div id="section-map">
 				<div class="detail">
 					<div class="marker-img">
-						<img src="assets/images/marker.png" alt="Akroot">
+						<img src="assets/images/marker.png" alt="ciptaprakarsa">
 					</div>
 					<div class="description">
 						<h5> Cipta Prakarsa Event Management</h5>

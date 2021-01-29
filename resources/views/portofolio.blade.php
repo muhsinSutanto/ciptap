@@ -33,7 +33,7 @@
 							<div class="row">
 								<div class=" col-md-6 col-12 item ez-animate webDesign" data-animation="fadeInUp">
 										<div class="img-container">
-											<img class="img-fluid" src="images/por_gb.jpg" alt="Akroot">
+											<img class="img-fluid" src="images/por_gb.jpg" alt="ciptaprakarsa">
 											<div class="overlay">
 												<div class="overlay-content">
 													<i></i>
@@ -45,7 +45,7 @@
 								</div>
 								<div class=" col-md-6 col-12 item ez-animate marketing" data-animation="fadeInUp">
 										<div class="img-container">
-											<img class="img-fluid" src="images/por_pd.jpg" alt="Akroot">
+											<img class="img-fluid" src="images/por_pdm.jpg" alt="ciptaprakarsa">
 											<div class="overlay">
 												<div class="overlay-content">
 													<i></i>
@@ -57,7 +57,7 @@
 								</div>
 								<div class=" col-md-4 col-12 item ez-animate webDesign illustrations" data-animation="fadeInUp">
 										<div class="img-container">
-											<img class="img-fluid" src="images/por_dt.jpg" alt="Akroot">
+											<img class="img-fluid" src="images/por_dt.jpg" alt="ciptaprakarsa">
 											<div class="overlay">
 												<div class="overlay-content">
 													<i></i>
@@ -69,7 +69,7 @@
 								</div>
 								<div class=" col-md-4 col-12 item ez-animate illustrations marketing photography" data-animation="fadeInUp">
 										<div class="img-container">
-											<img class="img-fluid" src="images/por_kemen.jpg" alt="Akroot">
+											<img class="img-fluid" src="images/por_kemen.jpg" alt="ciptaprakarsa">
 											<div class="overlay">
 												<div class="overlay-content">
 													<i></i>
@@ -81,7 +81,7 @@
 								</div>
 								<div class=" col-md-4 col-12 item ez-animate webDesign" data-animation="fadeInUp">
 										<div class="img-container">
-											<img class="img-fluid" src="images/booth.jpg" alt="Akroot">
+											<img class="img-fluid" src="images/booth.jpg" alt="ciptaprakarsa">
 											<div class="overlay">
 												<div class="overlay-content">
 													<i></i>
@@ -93,7 +93,7 @@
 								</div>
 								<div class="col-md-4 col-12 item ez-animate photography" data-animation="fadeInUp">
 										<div class="img-container">
-											<img class="img-fluid" src="images/por_polbang.jpg" alt="Akroot">
+											<img class="img-fluid" src="images/por_polbang.jpg" alt="ciptaprakarsa">
 											<div class="overlay">
 												<div class="overlay-content">
 													<i></i>
@@ -105,7 +105,7 @@
 								</div>
 								<div class=" col-md-4 col-12 item ez-animate photography marketing" data-animation="fadeInUp">
 										<div class="img-container">
-											<img class="img-fluid" src="images/por_food.jpg" alt="Akroot">
+											<img class="img-fluid" src="images/por_food.jpg" alt="ciptaprakarsa">
 											<div class="overlay">
 												<div class="overlay-content">
 													<i></i>
@@ -117,7 +117,7 @@
                                 </div>
                                 <div class=" col-md-4 col-12 item ez-animate photography marketing" data-animation="fadeInUp">
 										<div class="img-container">
-											<img class="img-fluid" src="images/por_poren.jpg" alt="Akroot">
+											<img class="img-fluid" src="images/por_poren.jpg" alt="ciptaprakarsa">
 											<div class="overlay">
 												<div class="overlay-content">
 													<i></i>
