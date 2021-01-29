@@ -295,7 +295,7 @@
                                 <img width="100%" src="images/infom.png" alt="infom">
                             </div>
                             <div class="col-md-1" style="width: 120px; margin: 30px" >   
-                                <img width="100%" src="images/ipb.png" alt="ipb">
+                                <img width="100%" src="images/ip.png" alt="ipb">
                             </div>
                             <div class="col-md-1" style="width: 120px; margin: 30px" >   
                                 <img width="100%" src="images/kehat.png" alt="kehati">
